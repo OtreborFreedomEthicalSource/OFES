@@ -33,6 +33,7 @@ Aplicaciones para discriminación étnica, de género, religiosa o de orientaci�
 Herramientas de represión, censura o violación de derechos humanos.
 
 **2. DERECHOS OTORGADOS**
+
 2.1. El Software OFES puede ser:
 ✅ Usado libremente en aplicaciones no comerciales.
 ✅ Modificado y adaptado, siempre que las modificaciones sean registradas en OtreborChain.
